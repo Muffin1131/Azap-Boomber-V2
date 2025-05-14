@@ -9,10 +9,10 @@ _It's azap to make a man go crazy_
 <h2>Kurulum</h2>
 
 ```console
-[git clone https://github.com/Muffin1131/Azap-Boomber-V2.git)]
+[git clone https://github.com/Muffin1131/Azap-Boomber-V2.git]
 cd Azap-Bomb
 pip3 install -r requirements.txt
-python3 enough.py
+python3 Azap.py
 ```
 <h2>Altyapı</h2>
 

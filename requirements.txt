@@ -1,0 +1,4 @@
+pip install colorama~=0.4.5
+pip install requests~=1.1.3
+
+bunlar gardaş
